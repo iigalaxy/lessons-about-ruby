@@ -10,7 +10,7 @@ puts "Hello world"
 ```rb
 Hello world
 ``` 
-Basically what you have written in the puts. When you run/execute[with the above]() the terminal it will close in little bit.
+Basically what you have written in the puts. When you run/execute[with the above](https://github.com/iigalaxy/lessons-about-ruby/blob/main/introduction/helloworld-about.md#good-now-open-terminal-and-writes-ruby-helloworldrb-in-the-terminal-you-will-see-this) the terminal it will close in little bit.
 
 # How to solve this?
 Easy, with:
